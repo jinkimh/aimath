@@ -1,2 +1,2 @@
-# aimath
-Fundamental mathematics for AI and Communication network in Gyeongsang University.  
+# ds
+A course of data structure in Gyeonsang Univ. 
